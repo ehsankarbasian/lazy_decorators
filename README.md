@@ -113,17 +113,16 @@ data_new = loader.data
 ## Suggested Study Path
 
 1. **Caches**  
-   - [`static_cache.py`](https://github.com/ehsankarbasian/lazy_decorators/blob/main/lazy_decorators/static_cache.py)  
-   - [`semi_dynamic_cache.py`](https://github.com/ehsankarbasian/lazy_decorators/blob/main/lazy_decorators/semi_dynamic_cache.py)  
-   - [`dynamic_cache.py`](https://github.com/ehsankarbasian/lazy_decorators/blob/main/lazy_decorators/dynamic_cache.py)  
-2. **Usage examples:** [`how_to_use.py`](https://github.com/ehsankarbasian/lazy_decorators/blob/main/lazy_decorators/how_to_use.py)  
-3. **Lazy object instantiation:** [`lazy_instantiation.py`](https://github.com/ehsankarbasian/lazy_decorators/blob/main/lazy_decorators/lazy_instantiation.py)  
-4. **Thread-Safe versions:**  
-   - [`simple_thread_safe.py`](https://github.com/ehsankarbasian/lazy_decorators/blob/main/lazy_decorators/simple_thread_safe.py)  
-   - [`dynamic_cache_thread_safe.py`](https://github.com/ehsankarbasian/lazy_decorators/blob/main/lazy_decorators/dynamic_cache_thread_safe.py)  
-   - [`how_to_use_thread_safe.py`](https://github.com/ehsankarbasian/lazy_decorators/blob/main/lazy_decorators/how_to_use_thread_safe.py)
+   - [`static_cache.py`](https://github.com/ehsankarbasian/DesignPatterns/blob/main/Python/Others/lazy_instantiation/static_cache.py)
+   - [`semi_dynamic_cache.py`](https://github.com/ehsankarbasian/DesignPatterns/blob/main/Python/Others/lazy_instantiation/semi_dynamic_cache.py)
+   - [`dynamic_cache.py`](https://github.com/ehsankarbasian/DesignPatterns/blob/main/Python/Others/lazy_instantiation/dynamic_cache.py)
+3. **Usage examples:** [`how_to_use.py`](https://github.com/ehsankarbasian/DesignPatterns/blob/main/Python/Others/lazy_instantiation/how_to_use.py)
+4. **Lazy object instantiation:** [`lazy_instantiation.py`](https://github.com/ehsankarbasian/DesignPatterns/blob/main/Python/Others/lazy_instantiation/lazy_instantiation.py)
+5. **Thread-Safe versions:**  
+   - [`simple_thread_safe.py`](https://github.com/ehsankarbasian/DesignPatterns/blob/main/Python/Others/lazy_instantiation/simple_thread_safe.py)  
+   - [`dynamic_cache_thread_safe.py`](https://github.com/ehsankarbasian/DesignPatterns/blob/main/Python/Others/lazy_instantiation/dynamic_cache_thread_safe.py)  
+   - [`how_to_use_thread_safe.py`](https://github.com/ehsankarbasian/DesignPatterns/blob/main/Python/Others/lazy_instantiation/how_to_use_thread_safe.py)
 
----
 
 ## Use Cases
 

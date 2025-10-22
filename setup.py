@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lazy-decorators",
-    version="1.0.1",
+    version="1.0.2",
     author="Ehsan Karbasian",
     author_email="ehsan.karbasian@gmail.com",
     description="Decorators to define lazy methods and functions",
